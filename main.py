@@ -90,7 +90,7 @@ Please Choose A Number To Host Template:
     '33': 'create'
     }
     number = input(colors.YELLOW + "[" + colors.END + "?" + colors.YELLOW + "]" + colors.END + "> ")
-    if number == "18":
+    if number == "0":
         print("Ebay Currently Does Not Work. Choose Another..")
         exit()
     else:
